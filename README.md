@@ -1,9 +1,9 @@
 # SC1015-Mini-Project
 
 # B124 Team 3
-## Members:
-- Benjamin
-- Jerry
+### Contributors
+- Benjamin - Data Preparation, Random Forest, Gradient Boosting,
+- Jerry - Data Preparation, Results analysis and Evaluation
 
 # Algorithms/Libraries
 Pandas\
@@ -35,11 +35,6 @@ Prices of resale flat transactions and some variables
 - lease_commence_date	- Starting Year of lease of flat
 - remaining_lease	- Years and months remaining before lease expires (Some entries do not have this variable)
 - resale_price - Transaction price of the resale flat
-
-
-# Contributors
-- Benjamin - Random Forest, Gradient Boosting
-- Jerry - Results analysis and Evaluation
 
 
 # Problem Definition
