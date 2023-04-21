@@ -77,9 +77,9 @@ https://sparkbyexamples.com/pandas/pandas-replace-values-based-on-condition/
 https://www.geeksforgeeks.org/how-to-convert-categorical-string-data-into-numeric-in-python/
 
 ### Models:
-https://scikit-learn.org/stable/auto_examples/ensemble/plot_gradient_boosting_regression.html
-https://www.analyticsvidhya.com/blog/2021/05/multiple-linear-regression-using-python-and-scikit-learn/
-https://datatofish.com/multiple-linear-regression-python/
-https://towardsdatascience.com/random-forest-in-python-24d0893d51c0
-https://www.geeksforgeeks.org/random-forest-regression-in-python/
-https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.HistGradientBoostingRegressor.htm
+https://scikit-learn.org/stable/auto_examples/ensemble/plot_gradient_boosting_regression.html \
+https://www.analyticsvidhya.com/blog/2021/05/multiple-linear-regression-using-python-and-scikit-learn/ \
+https://datatofish.com/multiple-linear-regression-python/ \
+https://towardsdatascience.com/random-forest-in-python-24d0893d51c0 \
+https://www.geeksforgeeks.org/random-forest-regression-in-python/ \
+https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.HistGradientBoostingRegressor.html \
