@@ -69,12 +69,12 @@ Prices of resale flat transactions and some variables
 
 # References:
 ### Data Source: 
-https://www.kaggle.com/datasets/teyang/singapore-hdb-flat-resale-prices-19902020 \
+https://www.kaggle.com/datasets/teyang/singapore-hdb-flat-resale-prices-19902020
 
 ### Data Preparation: 
 https://pandas.pydata.org/docs/reference/api/pandas.get_dummies.html \
 https://sparkbyexamples.com/pandas/pandas-replace-values-based-on-condition/ \
-https://www.geeksforgeeks.org/how-to-convert-categorical-string-data-into-numeric-in-python/ \
+https://www.geeksforgeeks.org/how-to-convert-categorical-string-data-into-numeric-in-python/
 
 ### Models:
 https://scikit-learn.org/stable/auto_examples/ensemble/plot_gradient_boosting_regression.html \
