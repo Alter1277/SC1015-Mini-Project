@@ -19,7 +19,7 @@ Video:
 The video recording of the summary of our project\
 \
 Project Jupyter File:
-Project file of our project\
+Project file of our project
 
 
 # Datasets:
