@@ -69,12 +69,12 @@ Prices of resale flat transactions and some variables
 
 # References:
 ### Data Source: 
-https://www.kaggle.com/datasets/teyang/singapore-hdb-flat-resale-prices-19902020
+https://www.kaggle.com/datasets/teyang/singapore-hdb-flat-resale-prices-19902020 \
 
 ### Data Preparation: 
-https://pandas.pydata.org/docs/reference/api/pandas.get_dummies.html
-https://sparkbyexamples.com/pandas/pandas-replace-values-based-on-condition/
-https://www.geeksforgeeks.org/how-to-convert-categorical-string-data-into-numeric-in-python/
+https://pandas.pydata.org/docs/reference/api/pandas.get_dummies.html \
+https://sparkbyexamples.com/pandas/pandas-replace-values-based-on-condition/ \
+https://www.geeksforgeeks.org/how-to-convert-categorical-string-data-into-numeric-in-python/ \
 
 ### Models:
 https://scikit-learn.org/stable/auto_examples/ensemble/plot_gradient_boosting_regression.html \
@@ -82,4 +82,4 @@ https://www.analyticsvidhya.com/blog/2021/05/multiple-linear-regression-using-py
 https://datatofish.com/multiple-linear-regression-python/ \
 https://towardsdatascience.com/random-forest-in-python-24d0893d51c0 \
 https://www.geeksforgeeks.org/random-forest-regression-in-python/ \
-https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.HistGradientBoostingRegressor.html \
+https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.HistGradientBoostingRegressor.html 
