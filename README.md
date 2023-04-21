@@ -82,4 +82,4 @@ https://www.analyticsvidhya.com/blog/2021/05/multiple-linear-regression-using-py
 https://datatofish.com/multiple-linear-regression-python/ \
 https://towardsdatascience.com/random-forest-in-python-24d0893d51c0 \
 https://www.geeksforgeeks.org/random-forest-regression-in-python/ \
-https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.HistGradientBoostingRegressor.html 
+https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.HistGradientBoostingRegressor.html
