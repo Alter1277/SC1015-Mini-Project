@@ -1,60 +1,87 @@
 # SC1015-Mini-Project
-# Tech Stack
-Data source: Kaggle
-Data wrangling: Python
-Data visualisation: Tableau
-Presentation: PowerPoint, Premiere Pro
-#Algorithms/Libraries
-Pandas
-Autoregression
-ARIMA
-Linear regression
-Decision tree regression
-Random forest regression
+
+# B124 Team 3
+## Members:
+- Benjamin
+- Jerry
+
+# Algorithms/Libraries
+Pandas\
+Linear regression\
+Gradient Boosting regression\
+Random forest regression\
 
 # Contents
-Slides: FSP5_Team07 Slides
-The slides provide a quick summary of our project. It covers the overall aim of our project, data extraction and preparation from the APIs, our analysis using regression and time-series forecasting, and the conclusions we draw from our work.
+Slides:
+A summary of our project for the video. It contains the aims for the project, data preparation , models used and the conclusions.\
+\
+Video:
+The video recording of the summary of our project\
+\
+Project Jupyter File:
+Project file of our project\
 
 
 # Datasets:
-Datasets used for this project can be found in this folder. Examples of these include locations of bus stops and MRT stations, demographics of subzones, and passenger volumes of public tranposrtation.
+Prices of resale flat transactions and some variables
+### Variables in the dataset:
+- Month - Month and Year of transaction
+- Town - Location of flat
+- block	- Block number of flat
+- street_name	- Street name of flat location
+- storey_range - Storey range of flat
+- floor_area_sqm - Floor Area of flat in square meter
+- flat_model - Model of flat
+- lease_commence_date	- Starting Year of lease of flat
+- remaining_lease	- Years and months remaining before lease expires (Some entries do not have this variable)
+- resale_price - Transaction price of the resale flat
+
 
 # Contributors
-Benjamin - 
-Jerry - 
-@nicklimmm - Neural Networks, Data Resampling, Data Extraction
-@TCaken - Logistic Regression
-@coolcoolwhat - Data Visualization, Data Extraction
+- Benjamin - Random Forest, Gradient Boosting
+- Jerry - Results analysis and Evaluation
+
 
 # Problem Definition
-What are the main Factors affecting Resale Prices of HDB Flats
-Which model would be the best to predict the Resale Price?
+- What are the main Factors affecting Resale Prices of HDB Flats
+- Which model would be the best to predict the Resale Price?
+
 
 # Models Used
-Logistic Regression
-Neural Networks
+- Linear Regression
+- Multiple Linear Regression
+- Random Forest Regression
+- Gradient Boosting Regression
+
 
 # Conclusion
-Popularity and budget have low linear correlation value with ratings (watch out for bandwagons 🤣)
-Popularity of the casts and crews have higher linear correlation value with ratings
-Resampling imbalanced data improved model performance especially on the minority class
-Logistic Regression did not perform well with non-linearly correlated variables
-Neural Networks along with SMOTEENN resampling method consistently did well in predicting good movies after 100 training attempts (around 72% accuracy, 70% recall)
-Yes, it is possible to predict if a movie is good with acceptable amount of accuracy and recall
+- Main factors in the dataset is Floor Area and Remaining Lease
+- Other Factors such as Location and Flat type also affects the resale price
+- Gradient Boosting Regression is the best model amongst the 4 models used
+- Random Forest does not perform as well as Gradient Boosting under the same hyperparameters
+- Number of Estimators and Max Depth of the models affects the accuracy of the models
+- The above hyperparameters have a positive relationship with the accuracy of the models
+- Model can be improved through further data preparation and more variables such as amenities nearby
+
 
 # What did we learn from this project?
+1. Encoding Categorical Variables
+2. Multiple Linear Regression
+3. Random Forest Regression
+4. Gradient Boosting Regression
+5. Some Factors affecting resale price
 
-# References
-## Data Source: 
+
+# References:
+### Data Source: 
 https://www.kaggle.com/datasets/teyang/singapore-hdb-flat-resale-prices-19902020
 
-## Data Preparation: 
+### Data Preparation: 
 https://pandas.pydata.org/docs/reference/api/pandas.get_dummies.html
 https://sparkbyexamples.com/pandas/pandas-replace-values-based-on-condition/
 https://www.geeksforgeeks.org/how-to-convert-categorical-string-data-into-numeric-in-python/
 
-## Models:
+### Models:
 https://scikit-learn.org/stable/auto_examples/ensemble/plot_gradient_boosting_regression.html
 https://www.analyticsvidhya.com/blog/2021/05/multiple-linear-regression-using-python-and-scikit-learn/
 https://datatofish.com/multiple-linear-regression-python/
