@@ -83,4 +83,5 @@ https://datatofish.com/multiple-linear-regression-python/ \
 https://towardsdatascience.com/random-forest-in-python-24d0893d51c0 \
 https://www.geeksforgeeks.org/random-forest-regression-in-python/ \
 https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.HistGradientBoostingRegressor.html\
-https://www.baeldung.com/cs/gradient-boosting-trees-vs-random-forests#:~:text=Gradient%20boosting%20trees%20can%20be,and%20start%20modeling%20the%20noise 
+https://www.baeldung.com/cs/gradient-boosting-trees-vs-random-forests#:~:text=Gradient%20boosting%20trees%20can%20be,and%20start%20modeling%20the%20noise \
+https://www.analyticsvidhya.com/blog/2021/06/understanding-random-forest/#:~:text=A.%20Random%20Forest%20is%20a,model%20is%20a%20decision%20tree.
