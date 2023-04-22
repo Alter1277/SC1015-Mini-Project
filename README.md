@@ -2,7 +2,7 @@
 
 # B124 Team 3
 ### Contributors
-- Benjamin - Data Preparation, Random Forest, Gradient Boosting,
+- Benjamin - Data Preparation, Random Forest, Gradient Boosting, Multitple Linear Regression
 - Jerry - Data Preparation, Results analysis and Evaluation
 
 # Algorithms/Libraries
