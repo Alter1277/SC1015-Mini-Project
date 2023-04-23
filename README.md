@@ -15,8 +15,6 @@ Random forest regression\
 Slides:
 A summary of our project for the video. It contains the aims for the project, data preparation , models used and the conclusions.\
 \
-Video:
-The video recording of the summary of our project\
 \
 Project Jupyter File:
 Project file of our project
